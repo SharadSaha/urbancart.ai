@@ -34,5 +34,5 @@ swagger:
 
 gemini:
   api:
-    key: YOUR_GEMINI_API_KEY
+    key: AIzaSyCk0uBK8GuZ0uu_CcG8uz3YKvWtuHtnq6I
     model: gemini-2.5-flash
